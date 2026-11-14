@@ -235,3 +235,5 @@ todos_export.csv
 .DS_Store
 .vscode/
 .idea/
+.scannerwork/
+test-results.xml
