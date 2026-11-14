@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Todo app ---
+# data/ (database with sample tasks and places, cached map tiles) is committed on purpose,
+# so the app starts with a filled list.
+
+# Python
+__pycache__/
+*.pyc
+
+# generated reports and exports
+bericht.*
+todos_export.csv
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
